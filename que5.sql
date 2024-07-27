@@ -1,0 +1,1 @@
+-- List the top 5 most ordered pizza types along with their quantities.
